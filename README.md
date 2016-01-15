@@ -82,7 +82,7 @@ Features
 	```
 
 5. Color Operations
-    * Various color functions exist in all 3 css pre-processors
+	* Various color functions exist in all 3 css pre-processors
 
 6. If/Else Statements
     * SASS and Stylus support if/else
