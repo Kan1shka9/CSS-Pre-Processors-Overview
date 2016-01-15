@@ -79,7 +79,7 @@ Features
         ```styl
         css-selector
 	        @extend . extend-name
-	   ```
+	```
 
 5. Color Operations
     * Various color functions exist in all 3 css pre-processors
