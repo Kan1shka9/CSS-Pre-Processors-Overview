@@ -1,0 +1,4 @@
+.block, p, ul, ol { margin: 10px 5px; }
+
+p { border: 1px solid #eee; }
+ul, ol { color: #333; text-transform: uppercase; }
