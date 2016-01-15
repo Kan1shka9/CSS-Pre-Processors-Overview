@@ -60,29 +60,29 @@ Features
 
 4. Extends / Inheritance
     * Share definition with selectors
-    * Extends are defined as
-        * SASS
-        ```scss
-        css-selector {
-		    @extend .extend-name;
-		            …
-        }
-        ```
-        * LESS
-        ```less
-        css-selector {
-		    &:extend(.extend-name);
-		            …
-        }
-        ```
-        * Stylus
-        ```styl
-        css-selector
-	        @extend . extend-name
-	```
-------------------
+    	* Extends are defined as
+	        * SASS
+	        ```scss
+	        css-selector {
+			    @extend .extend-name;
+			            …
+	        }
+	        ```
+	        * LESS
+	        ```less
+	        css-selector {
+			    &:extend(.extend-name);
+			            …
+	        }
+	        ```
+	        * Stylus
+	        ```styl
+	        css-selector
+		        @extend . extend-name
+		```
+
 5. Color Operations
-     * Various color functions exist in all 3 css pre-processors
+    * Various color functions exist in all 3 css pre-processors
 
 6. If/Else Statements
     * SASS and Stylus support if/else
